@@ -8,4 +8,4 @@ Click on the links below to launch a non-interactive viewer to explore how one c
 
 | File | Non-interactive | Jupyter Notebook | RStudio |
 | --- | --- | --- | --- |
-| ncbi_datasets_gene_notebook.ipynb | [ncbi_datasets_gene_notebook.ipynb](ncbi_datasets_gene_notebook.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/BradHolmes/datasets/master?filepath=examples/r/ncbi_datasets_gene_notebook.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/BradHolmes/datasets/master?filepath=examples/r/ncbi_datasets_r_notebook.Rmd&urlpath=rstudio)
+| ncbi_datasets_gene_notebook.ipynb | [ncbi_datasets_gene_notebook.ipynb](ncbi_datasets_gene_notebook.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ncbi/datasets/master?filepath=examples/r/ncbi_datasets_gene_notebook.ipynb) | [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ncbi/datasets/master?filepath=examples/r/ncbi_datasets_r_notebook.Rmd&urlpath=rstudio)
